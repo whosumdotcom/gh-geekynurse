@@ -1,0 +1,22 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2024-01-08T17:23:11Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:geekynurse"
+    },
+    {
+      "Claim": "spout:kevia04"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ef8c784989e744b81a32ecd9",
+    "Timestamp": "2024-01-08T18:23:14Z",
+    "Signature": "4602fb80869fb803bb8cbaa2b1b1f5ec5617e3ad271b0b02fb73d6d751ec7a4491ed11d07a11d71e887f77e244628d813ecac15ec093145086b7093e347400896c65e32254d1994aaf68aada67658ea6e00a8275238d9415617a17d083045138ac28fa1a9c3efda3330842bb6aee22cfc3ce099366edb2465a7e335568987199a4072ed5af827505555f28a64c0c2d229cb9564b5e0cf06b8d7103b180ffaedb6a488d18a1e0418dc4f9465000baa62ac7a4bc20f3006b67f0fd0f83f7154c20136e0c832f0a7b89602a53ef41af3cff8475329edc014c70250d5eb7d1e91ef8884a9aa551ae59cfb34f161785e5a01f728bde0ec1d20a6e9eb60d08ec827619"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "5fb4173654769056aa9508cff183bd4261f6352362787bc3a8fe95558442dfd8",
+  "ContentToHash": "v1|gh:geekynurse,spout:kevia04|2024-01-08T17:23:11Z"
+}
